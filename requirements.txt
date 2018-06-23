@@ -1,0 +1,4 @@
+mintapi
+pandas
+selenium
+chromedriver
